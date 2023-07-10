@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+wlroots-git (0.17.1+7791ffe0-0deepin2) unstable; urgency=medium
 
-  * Initial release
+  * new git version
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- xiangzelong <xiangzelong@deepin.org>  Wed, 12 Jul 2023 11:41:20 +0800
